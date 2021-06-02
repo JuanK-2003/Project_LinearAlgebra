@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621486423 source:c:\users\918801\dropbox\mi pc (laptop-kun1o36o)\documents\ejercicio progra\project_linearalgebra\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+
